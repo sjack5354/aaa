@@ -1,3 +1,4 @@
 public class Teacher {
-    private String name = "zhangsan";
+    private String name = "lisi";
+    private Integer age = 18;
 }
