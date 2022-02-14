@@ -3,5 +3,5 @@ public class Student {
     private String sname;
     private String sex;
     private Integer age;
-    private String color;
+    private String color = "绿色";
 }
