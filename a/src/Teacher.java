@@ -6,4 +6,7 @@ public class Teacher {
     public void sleep(){
         System.out.println("this is lisi sleep method");
     }
+    public void sleep(int number){
+        System.out.println("this is lisi two sleep method");
+    }
 }
