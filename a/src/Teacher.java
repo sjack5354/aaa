@@ -9,6 +9,9 @@ public class Teacher {
     public void eat(String tno){
         System.out.println("this is lis two eat method");
     }
+    public void sleep(int number){
+        System.out.println("this is lisi two sleep method");
+    }
 }
 
 
