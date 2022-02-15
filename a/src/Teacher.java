@@ -3,7 +3,6 @@ public class Teacher {
     private Integer age = 18;
     private String sex = "男";
 
-
 }
 
 
