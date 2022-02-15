@@ -6,6 +6,9 @@ public class Teacher {
     public void eat(){
         System.out.println("this is lisi eat method");
     }
+    public void eat(String tno){
+        System.out.println("this is lis two eat method");
+    }
 }
 
 
